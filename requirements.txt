@@ -1,4 +1,4 @@
-numpy==1.18.2
+numpy==1.22.0
 pandas==1.0.3
 
 pyEDFlib~=0.1.17
